@@ -1,31 +1,37 @@
 Computer Science Solution Cover Page
 ====================================
 
-**Candidate code:** abc123
-**School number:** 056789
+**Candidate code:** abc123<br>
+**School number:** 056789<br>
 **Candidate session number:** 056789-0004
+
 
 Solution
 --------
 
-**Solution title:** 
+**Solution title:** Task planner application *Task.app*
+
+**Product:**
+* [Task planner application (PHP)](https://github.com/anzeljg/ib_comsc_ia/releases/tag/php.v1)
+* [Task planner application (Python)](https://github.com/anzeljg/ib_comsc_ia/releases/tag/py.v1)
 
 
 Documentation
 -------------
 
-**Planning**
-  [Planning](./Crit_A_Planning.md)
+**Planning:**
+* [Planning](./a_planning.md)
 
-**Design**
-  [Record of tasks](./Crit_B_Record_of_tasks.md)
-  [Design](./Crit_B_Design.md)
+**Design:**
+* [Record of tasks](./b_record_of_tasks.md)
+* [Design](./b_design.md)
 
-**Development**
-  [Development](./Crit_C_Development.md)
+**Development:**
+* [Development](./c_development.md)
 
-**Functionality**
-  [Video of product](./Crit_D_Video.mp4)
+**Functionality:**
+* [Video of product (PHP)](./d_video_php.mp4)
+* [Video of product (Python)](./d_video_python.mp4)
 
-**Evaluation**
-  [Evaluation](./Crit_E_Evaluation.md)
+**Evaluation:**
+* [Evaluation](./e_evaluation.md)
